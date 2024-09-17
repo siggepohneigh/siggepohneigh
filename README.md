@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siggepohneigh
 - 👀 I’m interested in photography
-- 🌱 I’m currently learning Swift!
+- 🌱 I’m currently learning Swift and C++!
 - ⚡ Fun fact: I do photography! Check out my photography portfolio [here](https://siggepohneigh.tumblr.com/)
 
 <!---
